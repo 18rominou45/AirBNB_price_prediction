@@ -1,2 +1,2 @@
 # AirBNB_price_prediction
-The goal of this project is to predict Airbnb apartment prices based on several key variables. To achieve this, I processed a large dataset through data cleaning and feature engineering, applied various predictive models (linear regression, random forests, SVM) and visualised the results to evaluate model performance.
+L’objectif de ce projet est de prédire le prix des appartements Airbnb à partir de plusieurs variables clés. Pour y parvenir, j’ai traité un large jeu de données : nettoyage et transformation des données, création de variables pertinentes, application de différents modèles prédictifs (régression linéaire, forêts aléatoires, SVM) et visualisation des résultats pour évaluer les performances des modèles.
